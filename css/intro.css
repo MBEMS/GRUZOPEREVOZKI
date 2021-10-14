@@ -1,0 +1,43 @@
+.intro {
+    background-image: url(../img/banner_gruz.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+    height: 620px;
+    margin-top: 54px;
+}
+.intro__banner {
+    justify-content: center;
+}
+.mouse {
+    justify-content:center;
+    margin-top: 140px;    
+}
+.intro__banner__content{
+    margin-top: 155px;
+    width: 920px;
+    height: 245px;    
+    border: 1px solid #C8A35F;
+    box-sizing: border-box;
+}
+.intro__banner__title{
+    margin: 0 auto;
+    font-family: "Roboto";
+    font-style: normal;    
+    font-size: 64px;    
+    text-align: center;
+    color: #FFFFFF;    
+    text-transform: uppercase;
+    padding: 45px 45px;
+}
+.intro__banner__description{
+    margin: 0 auto;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;    
+    text-align: center;
+    color: #FFFFFF; 
+    padding-left: 71px;
+    padding-right: 72px;
+}

@@ -1,0 +1,71 @@
+.blocks{
+    justify-content: space-between;
+}
+.block__odin{
+    width: 755px;
+    height: 561px;
+    background-color: #393F47;    
+}  
+
+.block__content{     
+    max-width: 445px;
+    margin-left: 405px;
+    margin-top: 120px;    
+}
+.razdelitel__content{    
+    width: 90px;
+    height: 6px;
+    background: #C8A35F; 
+    margin-bottom: 40px;   
+}
+.block__title{
+    font-family: "Roboto";
+    font-style: normal;
+    font-size: 40px;    
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.block__description{
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+.button__description{
+    padding: 18px 18px;
+    font-family: "Roboto";
+    font-style: normal;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.button{
+    background: #C8A35F;    
+    width: 220px;
+    height: 55px;
+    margin-top: 50px;
+}
+.block__dva{
+    justify-content: center;
+    align-items: center;
+    width: 755px;
+    height: 561px;
+    background-color: #393F47;
+}
+.gruzovik{    
+    width: 445px;
+    height: 266px;
+    margin-right: 0px;   
+        
+}
+.img__strelka__next{
+    margin-top: 156px;
+}
+.img__strelka__back{
+    margin-bottom: 159px;
+}

@@ -1,0 +1,78 @@
+.services__list{
+    display: flex;
+}
+.servs {
+    margin-top: 120px;
+}
+.pazdelitel__horizont{
+    width: 90px;
+    height: 6px;
+    left: 405px;
+    background: #C8A35F;
+    margin-bottom: 40px;
+    
+}
+.text__services{
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 40px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-bottom: 40px;
+}
+.services__title p{
+    font-family: "Roboto";
+    font-style: normal;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.aviaperevozki__content{
+    width: 276px;
+    height: 180px;
+    background: #C8A35F;
+    border-color: rgb(5, 4, 4);
+    display: flex;
+    justify-content: center;  
+    align-items: center;   
+}
+.cherny__samolet{
+    background: white;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;      
+    
+}
+
+.samolet__img{
+    width: 30px;
+    height: 30px;    
+}
+.services__title{
+    font-family: "Roboto";
+    font-style: normal;    
+    font-size: 18px;    
+    text-align: center;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #FFFFFF;   
+}
+.belyi__samolet{
+    justify-content: center;
+}
+.aviaperevozki__rest{
+    align-items: center;
+    justify-content: center;
+    background: #393F47;
+    border-color: #161002;
+    width: 276px;
+    height: 180px;
+}

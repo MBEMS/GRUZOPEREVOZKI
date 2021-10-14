@@ -1,0 +1,11 @@
+.aboutus{
+    margin-top: 150px;
+}
+.about__company{
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
